@@ -1,5 +1,6 @@
 Game Of Life - Kata
 ===================
+Carlos Andres Novoa
 
 General installation instructions:
 
